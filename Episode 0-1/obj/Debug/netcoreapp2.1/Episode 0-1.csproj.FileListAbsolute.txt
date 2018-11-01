@@ -1,0 +1,11 @@
+F:\Dev\Episode 0-1\bin\Debug\netcoreapp2.1\Episode 0-1.deps.json
+F:\Dev\Episode 0-1\bin\Debug\netcoreapp2.1\Episode 0-1.runtimeconfig.json
+F:\Dev\Episode 0-1\bin\Debug\netcoreapp2.1\Episode 0-1.runtimeconfig.dev.json
+F:\Dev\Episode 0-1\bin\Debug\netcoreapp2.1\Episode 0-1.dll
+F:\Dev\Episode 0-1\bin\Debug\netcoreapp2.1\Episode 0-1.pdb
+F:\Dev\Episode 0-1\obj\Debug\netcoreapp2.1\Episode 0-1.csprojAssemblyReference.cache
+F:\Dev\Episode 0-1\obj\Debug\netcoreapp2.1\Episode 0-1.csproj.CoreCompileInputs.cache
+F:\Dev\Episode 0-1\obj\Debug\netcoreapp2.1\Episode 0-1.AssemblyInfoInputs.cache
+F:\Dev\Episode 0-1\obj\Debug\netcoreapp2.1\Episode 0-1.AssemblyInfo.cs
+F:\Dev\Episode 0-1\obj\Debug\netcoreapp2.1\Episode 0-1.dll
+F:\Dev\Episode 0-1\obj\Debug\netcoreapp2.1\Episode 0-1.pdb
